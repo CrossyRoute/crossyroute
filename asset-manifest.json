@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crossy-route-frontend/static/css/main.a212a394.css",
-    "main.js": "/crossy-route-frontend/static/js/main.439fd8d9.js",
-    "static/js/787.3b4edce1.chunk.js": "/crossy-route-frontend/static/js/787.3b4edce1.chunk.js",
-    "index.html": "/crossy-route-frontend/index.html",
-    "main.a212a394.css.map": "/crossy-route-frontend/static/css/main.a212a394.css.map",
-    "main.439fd8d9.js.map": "/crossy-route-frontend/static/js/main.439fd8d9.js.map",
-    "787.3b4edce1.chunk.js.map": "/crossy-route-frontend/static/js/787.3b4edce1.chunk.js.map"
+    "main.css": "/crossyroute/static/css/main.a212a394.css",
+    "main.js": "/crossyroute/static/js/main.43754509.js",
+    "static/js/787.3b4edce1.chunk.js": "/crossyroute/static/js/787.3b4edce1.chunk.js",
+    "index.html": "/crossyroute/index.html",
+    "main.a212a394.css.map": "/crossyroute/static/css/main.a212a394.css.map",
+    "main.43754509.js.map": "/crossyroute/static/js/main.43754509.js.map",
+    "787.3b4edce1.chunk.js.map": "/crossyroute/static/js/787.3b4edce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a212a394.css",
-    "static/js/main.439fd8d9.js"
+    "static/js/main.43754509.js"
   ]
 }
